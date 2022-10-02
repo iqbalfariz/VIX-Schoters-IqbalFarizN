@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Bookmark</string>
+    <string name="title">title</string>
+    <string name="published">published At</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="content_title">Telemann 4 Tengkorak di Tapanuli Utara, Diduga Leluhur 200 Tahun Lalu</string>
+    <string name="profil">profil</string>
+    <string name="nama">Nama :</string>
+    <string name="username_github">Username Github :</string>
+    <string name="link_github">Link Github :</string>
+    <string name="iqbal_fariz_novirianto">Iqbal Fariz Novirianto</string>
+    <string name="iqbalfariz">iqbalfariz</string>
+    <string name="https_github_com_iqbalfariz">https://github.com/iqbalfariz</string>
+</resources>
